@@ -2,7 +2,7 @@
 
 <b># Todo App Using React and Firebase</b>
 
-![](demo (191).png)
+![](demo.png)
 
 # Getting Started with Create React App
 
