@@ -2,7 +2,7 @@ import firebase from 'firebase/compat/app';
 import 'firebase/compat/firestore';
 
 const app = firebase.initializeApp({
-  apiKey: "AIzaSyAdcYuLuY0nTa5SnUtxHIgE9JSPjIOQ8M4",
+  apiKey: "your-api-key",
   authDomain: "todo-app-e48ab.firebaseapp.com",
   projectId: "todo-app-e48ab",
   storageBucket: "todo-app-e48ab.appspot.com",
